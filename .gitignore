@@ -1,0 +1,14 @@
+# System
+.DS_Store
+.idea/
+.vscode/
+*.log
+*.tmp
+
+# Docker
+docker-compose.override.yml
+
+# Application Data (if any created locally)
+/data/
+/logs/
+kafka/
